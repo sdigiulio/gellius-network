@@ -1,0 +1,3016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2016-03-04">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="Gellius" label="Gellius">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="15.489031" y="-9.56816" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Plutarch" label="Plutarch">
+        <attvalues></attvalues>
+        <viz:size value="1.0538117"></viz:size>
+        <viz:position x="95.796906" y="47.529007" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Epictetus" label="Epictetus">
+        <attvalues></attvalues>
+        <viz:size value="1.0179372"></viz:size>
+        <viz:position x="-39.168167" y="242.50012" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Herodes Atticus" label="Herodes Atticus">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-36.579117" y="220.64803" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Cicero" label="Cicero">
+        <attvalues></attvalues>
+        <viz:size value="1.0807174"></viz:size>
+        <viz:position x="-26.355165" y="77.620514" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Theophrastus" label="Theophrastus">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="75.490814" y="129.62274" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Lucilius" label="Lucilius">
+        <attvalues></attvalues>
+        <viz:size value="1.0269058"></viz:size>
+        <viz:position x="-81.05508" y="-18.327332" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Favorinus" label="Favorinus">
+        <attvalues></attvalues>
+        <viz:size value="1.161435"></viz:size>
+        <viz:position x="-84.42754" y="127.22798" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pericles" label="Pericles">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="336.22525" y="-202.33183" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Antonius Iulianus" label="Antonius Iulianus">
+        <attvalues></attvalues>
+        <viz:size value="1.0448431"></viz:size>
+        <viz:position x="-118.774956" y="-50.576496" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Demosthenes" label="Demosthenes">
+        <attvalues></attvalues>
+        <viz:size value="1.0224215"></viz:size>
+        <viz:position x="63.21302" y="151.03865" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Hortensius" label="Hortensius">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-337.10977" y="68.12245" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Metellus Numidicus" label="Metellus Numidicus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="21.871975" y="118.4621" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Titus Castricius" label="Titus Castricius">
+        <attvalues></attvalues>
+        <viz:size value="1.0224215"></viz:size>
+        <viz:position x="0.48104596" y="111.24861" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Gaius Gracchus" label="Gaius Gracchus">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-20.874268" y="104.78728" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Claudius Quadrigarius" label="Claudius Quadrigarius">
+        <attvalues></attvalues>
+        <viz:size value="1.0224215"></viz:size>
+        <viz:position x="-64.3767" y="-30.994175" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Valerius Antias" label="Valerius Antias">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-51.11766" y="-50.69999" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Plautus" label="Plautus">
+        <attvalues></attvalues>
+        <viz:size value="1.0269058"></viz:size>
+        <viz:position x="-125.88397" y="-12.472619" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Laberius" label="Laberius">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-56.532215" y="-0.29222223" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sotion" label="Sotion">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="71.87414" y="165.72382" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Taurus" label="Taurus">
+        <attvalues></attvalues>
+        <viz:size value="1.0358745"></viz:size>
+        <viz:position x="90.31856" y="111.085754" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Plato" label="Plato">
+        <attvalues></attvalues>
+        <viz:size value="1.0403588"></viz:size>
+        <viz:position x="110.83938" y="91.13774" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Caesar" label="Caesar">
+        <attvalues></attvalues>
+        <viz:size value="1.0269058"></viz:size>
+        <viz:position x="-119.71332" y="11.416332" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Thucydides" label="Thucydides">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="223.88191" y="181.73982" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Herodotus" label="Herodotus">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="172.29164" y="146.27937" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Homer" label="Homer">
+        <attvalues></attvalues>
+        <viz:size value="1.0717489"></viz:size>
+        <viz:position x="-34.378944" y="132.2888" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aristotle" label="Aristotle">
+        <attvalues></attvalues>
+        <viz:size value="1.0269058"></viz:size>
+        <viz:position x="53.99341" y="88.724724" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Labeo Antistius" label="Labeo Antistius">
+        <attvalues></attvalues>
+        <viz:size value="1.0224215"></viz:size>
+        <viz:position x="-193.95502" y="27.10536" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Capito Ateius" label="Capito Ateius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="103.03321" y="-179.31104" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sulla" label="Sulla">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-219.68698" y="82.306656" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Cato" label="Cato">
+        <attvalues></attvalues>
+        <viz:size value="1.0358745"></viz:size>
+        <viz:position x="-41.32186" y="35.750416" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Hyginus" label="Hyginus">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="-122.177185" y="72.52759" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Eupolis" label="Eupolis">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="429.15634" y="34.647133" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sallust" label="Sallust">
+        <attvalues></attvalues>
+        <viz:size value="1.0269058"></viz:size>
+        <viz:position x="-87.94924" y="60.377335" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Hesiod" label="Hesiod">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="16.934875" y="214.50041" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Epicharmius" label="Epicharmius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-380.56964" y="-197.3914" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Valerius Probus" label="Valerius Probus">
+        <attvalues></attvalues>
+        <viz:size value="1.0448431"></viz:size>
+        <viz:position x="-107.57745" y="35.639" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aristophanes" label="Aristophanes">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-176.86833" y="126.59085" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Varro" label="Varro">
+        <attvalues></attvalues>
+        <viz:size value="1.0852017"></viz:size>
+        <viz:position x="-72.67792" y="-45.485195" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Socrates" label="Socrates">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-24.702154" y="143.40097" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Lucius Aelius" label="Lucius Aelius">
+        <attvalues></attvalues>
+        <viz:size value="1.0179372"></viz:size>
+        <viz:position x="-86.08539" y="-73.467285" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pythagoras" label="Pythagoras">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="2.616854" y="-223.96858" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Vergil" label="Vergil">
+        <attvalues></attvalues>
+        <viz:size value="1.0762331"></viz:size>
+        <viz:position x="-115.643295" y="64.99044" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Lucretius" label="Lucretius">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-152.61246" y="114.14437" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Julius Paulus" label="Julius Paulus">
+        <attvalues></attvalues>
+        <viz:size value="1.0179372"></viz:size>
+        <viz:position x="-154.38068" y="71.97509" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Ennius" label="Ennius">
+        <attvalues></attvalues>
+        <viz:size value="1.0717489"></viz:size>
+        <viz:position x="-109.998535" y="-26.80902" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Naevius" label="Naevius">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-161.82306" y="-108.696556" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pacuvius" label="Pacuvius">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="-76.01178" y="-111.03907" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aurelius Opilius" label="Aurelius Opilius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="261.04498" y="-301.38788" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Fidus Optatus" label="Fidus Optatus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-133.17178" y="74.65337" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Gavius Bassus" label="Gavius Bassus">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="7.5350924" y="-94.62207" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Annaeus Cornutus" label="Annaeus Cornutus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-126.7469" y="80.515564" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Epicurus" label="Epicurus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="135.73116" y="32.57196" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Accius" label="Accius">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="-69.30981" y="-118.7661" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Valerius Soranus" label="Valerius Soranus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-104.73937" y="-118.43473" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Annales" label="Annales">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-71.32428" y="-409.58774" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Solon" label="Solon">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="35.017414" y="160.55147" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sempronius Asellio" label="Sempronius Asellio">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="91.687614" y="-100.98339" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Caesellius Vindex" label="Caesellius Vindex">
+        <attvalues></attvalues>
+        <viz:size value="1.0313902"></viz:size>
+        <viz:position x="-84.60105" y="82.7868" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sulpicius Apollinaris" label="Sulpicius Apollinaris">
+        <attvalues></attvalues>
+        <viz:size value="1.0807174"></viz:size>
+        <viz:position x="-137.9131" y="44.258778" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Cebes Socraticus" label="Cebes Socraticus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="330.87454" y="252.41437" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Phaedo" label="Phaedo">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="385.73505" y="99.46845" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Menippus" label="Menippus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="346.9531" y="-260.92715" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Diogenes" label="Diogenes">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="245.43877" y="-120.76219" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Publius Scipio" label="Publius Scipio">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="96.21535" y="-121.48245" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Greek students" label="Greek students">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-34.91612" y="142.70128" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Roman students" label="Roman students">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-81.26581" y="-67.08667" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Gallus" label="Gallus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-145.76816" y="223.15596" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Horace" label="Horace">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-133.31671" y="230.00563" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Nigidius Figulus" label="Nigidius Figulus">
+        <attvalues></attvalues>
+        <viz:size value="1.0179372"></viz:size>
+        <viz:position x="-48.190132" y="-14.745494" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Menander" label="Menander">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-139.33899" y="-155.88474" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Posidippus" label="Posidippus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="307.0537" y="281.49112" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Apollodorus" label="Apollodorus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-142.36812" y="-167.21532" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Alexis" label="Alexis">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="218.10313" y="-161.88408" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Caecilius Statius" label="Caecilius Statius">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="-136.3904" y="-123.7853" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Laevius" label="Laevius">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-237.75032" y="69.88735" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aristarchus" label="Aristarchus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="7.6996064" y="-166.88646" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Crates" label="Crates">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="1.7791891" y="-154.4169" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Fronto" label="Fronto">
+        <attvalues></attvalues>
+        <viz:size value="1.0493274"></viz:size>
+        <viz:position x="-115.70966" y="-4.1316333" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aesop" label="Aesop">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="241.29466" y="-355.7474" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Arcesilaus" label="Arcesilaus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="150.36209" y="55.300858" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Julius Modestus" label="Julius Modestus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-314.94928" y="299.86874" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aristides Samius" label="Aristides Samius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-95.63969" y="-124.86308" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Philochorus" label="Philochorus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="130.39514" y="-228.90204" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Xenophanes" label="Xenophanes">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-4.470658" y="-397.72" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Ephorus" label="Ephorus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="211.73239" y="-371.07513" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Hermippus" label="Hermippus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="366.20425" y="-161.70296" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Philippides" label="Philippides">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="380.9386" y="172.4094" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Hippocrates" label="Hippocrates">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="97.487144" y="-20.747404" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sabinus medicus" label="Sabinus medicus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="394.66827" y="-185.66953" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Livius Andronicus" label="Livius Andronicus">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-52.82767" y="132.20517" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Hadrian" label="Hadrian">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="204.40785" y="-178.60304" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pliny the Elder" label="Pliny the Elder">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="174.65154" y="-67.783066" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Masurius Sabinus" label="Masurius Sabinus">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="166.14027" y="-59.92067" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Timon" label="Timon">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="384.40778" y="-126.46499" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Grammatici" label="Grammatici">
+        <attvalues></attvalues>
+        <viz:size value="1.0224215"></viz:size>
+        <viz:position x="-111.01715" y="-69.71301" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Quintus Scaevola" label="Quintus Scaevola">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-105.73738" y="219.01132" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Mucius" label="Mucius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-158.0403" y="215.31427" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Servius Sulpicius" label="Servius Sulpicius">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="129.82481" y="-275.15366" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aelius Catus" label="Aelius Catus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="132.88715" y="-282.30884" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Caelius Sabinus" label="Caelius Sabinus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-207.98662" y="28.721827" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Trebatius" label="Trebatius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="414.14084" y="-115.03273" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Neratius" label="Neratius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="396.28235" y="38.779865" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Verrius Flaccus" label="Verrius Flaccus">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-35.070583" y="48.52905" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Ateius Capito" label="Ateius Capito">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="-150.14851" y="-4.0710316" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Terence" label="Terence">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="-159.43845" y="-18.160826" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Tiro" label="Tiro">
+        <attvalues></attvalues>
+        <viz:size value="1.0179372"></viz:size>
+        <viz:position x="-66.02907" y="26.81295" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Callimachus" label="Callimachus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="321.4505" y="-287.61752" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aristoxenus" label="Aristoxenus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="3.8397539" y="-234.7254" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Empedocles" label="Empedocles">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="283.24457" y="-278.5535" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Democritus" label="Democritus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="184.904" y="-72.911194" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Musonius Rufus" label="Musonius Rufus">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-35.394215" y="186.60895" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Chares" label="Chares">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="398.32056" y="67.1547" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Fabius Pictor" label="Fabius Pictor">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="97.150246" y="-243.83682" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Tiberius Caesar" label="Tiberius Caesar">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="179.5155" y="-60.65638" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Protagoras" label="Protagoras">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="327.5576" y="-234.04323" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Bias" label="Bias">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-104.43387" y="261.1115" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Apion" label="Apion">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-130.84473" y="10.339242" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sinnius Capito" label="Sinnius Capito">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="20.331352" y="-155.42282" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Amicus" label="Amicus">
+        <attvalues></attvalues>
+        <viz:size value="1.0762331"></viz:size>
+        <viz:position x="-12.88773" y="-82.96844" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="C. Oppius" label="C. Oppius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-28.52886" y="-423.08398" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Annianus" label="Annianus">
+        <attvalues></attvalues>
+        <viz:size value="1.0224215"></viz:size>
+        <viz:position x="-78.4775" y="20.664513" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Atta" label="Atta">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="271.41162" y="-13.788744" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aelius Tubero" label="Aelius Tubero">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="-158.93095" y="7.22121" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Euripides" label="Euripides">
+        <attvalues></attvalues>
+        <viz:size value="1.0269058"></viz:size>
+        <viz:position x="113.962105" y="-45.005653" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Cornelius Nepos" label="Cornelius Nepos">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="-11.927211" y="123.02992" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Decree" label="Decree">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-4.255579" y="133.26155" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Catullus" label="Catullus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-310.961" y="47.704945" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Chrysippus" label="Chrysippus">
+        <attvalues></attvalues>
+        <viz:size value="1.0179372"></viz:size>
+        <viz:position x="135.76015" y="115.619576" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Philosophus" label="Philosophus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="148.03934" y="121.985756" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pythagoreans" label="Pythagoreans">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="155.40086" y="127.66392" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Tuditanus" label="Tuditanus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="256.6198" y="-92.13703" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Alfenus" label="Alfenus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-156.56525" y="-382.20078" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Matius" label="Matius">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-124.31806" y="-72.20479" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Twelve Tables" label="Twelve Tables">
+        <attvalues></attvalues>
+        <viz:size value="1.0224215"></viz:size>
+        <viz:position x="-165.73207" y="70.49845" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Lucius Piso" label="Lucius Piso">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="62.498196" y="-347.6532" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Gaius Trebatius" label="Gaius Trebatius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="204.27084" y="-339.69598" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Peregrinus" label="Peregrinus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="163.53148" y="-92.270134" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Gnaeus Gellius" label="Gnaeus Gellius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="178.07173" y="-30.752459" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Heracleides of Pontus" label="Heracleides of Pontus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="366.73248" y="-229.8618" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Philip of Macedon" label="Philip of Macedon">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="297.00568" y="-313.0858" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aristeas of Proconnesus" label="Aristeas of Proconnesus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-44.99823" y="-396.0201" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Isigonus of Nicaea" label="Isigonus of Nicaea">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="379.89597" y="143.75873" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Ctesias" label="Ctesias">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="364.4638" y="196.3005" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Onesicritus" label="Onesicritus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-204.51045" y="-362.09625" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Philostephanus" label="Philostephanus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="306.48535" y="-257.09756" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Hegesias" label="Hegesias">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="185.24245" y="-389.3776" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Antisthenes Socraticus" label="Antisthenes Socraticus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="40.125668" y="-411.33627" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Speusippus" label="Speusippus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="423.94464" y="-46.136612" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Zeno" label="Zeno">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="68.976074" y="-421.4155" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Critolaus" label="Critolaus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="72.785706" y="157.30508" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Hierocles Stoicus" label="Hierocles Stoicus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="115.38895" y="137.20259" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Suetonius" label="Suetonius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="173.13837" y="-207.42526" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Theocritus" label="Theocritus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="188.82553" y="-192.91046" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Calvus" label="Calvus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-340.42114" y="54.089687" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Cinna" label="Cinna">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-261.54922" y="32.868168" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sisenna" label="Sisenna">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="144.73103" y="-150.81114" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Coelius" label="Coelius">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-11.395942" y="-164.68779" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Augustus" label="Augustus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="124.332436" y="-165.26381" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Afranius" label="Afranius">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-197.43277" y="58.044384" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Archytas the Pythagorean" label="Archytas the Pythagorean">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-172.44858" y="228.05461" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="On the Public Priests" label="On the Public Priests">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="403.10147" y="-151.88832" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Theodectes" label="Theodectes">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-144.51793" y="92.291016" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Salus" label="Salus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="397.64233" y="-79.9752" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pomponius" label="Pomponius">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="327.5181" y="-72.847336" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Asinius Pollio" label="Asinius Pollio">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="232.48395" y="-143.17413" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Timaeus" label="Timaeus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="270.21872" y="-336.6213" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pyrrho" label="Pyrrho">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-119.1942" y="249.61443" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aulus Albinus" label="Aulus Albinus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-52.98311" y="56.46107" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Diodorus Cronus" label="Diodorus Cronus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="403.61868" y="126.45953" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Romulus" label="Romulus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="63.483624" y="-354.89465" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Terentius Scaurus" label="Terentius Scaurus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-91.08462" y="94.455536" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aristo" label="Aristo">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="152.73058" y="-400.05203" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Seneca" label="Seneca">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="-86.9872" y="41.214127" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Valgius Rufus" label="Valgius Rufus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-12.637089" y="84.73064" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Riddle" label="Riddle">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-88.15899" y="-148.67067" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Valerius Maximus" label="Valerius Maximus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="399.61005" y="7.4270325" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sophocles" label="Sophocles">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="155.97095" y="-84.882866" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Augurs" label="Augurs">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="366.76248" y="-197.04907" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Messala" label="Messala">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="265.29553" y="-53.556946" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Elys" label="Elys">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="400.67575" y="-27.516085" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Erucius Clarus" label="Erucius Clarus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-225.9117" y="56.17771" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aeschylus" label="Aeschylus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="141.14925" y="-59.306908" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Adulescens" label="Adulescens">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="-48.121555" y="21.644148" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Licinius Imbrex" label="Licinius Imbrex">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-235.55649" y="-145.68858" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Servius Claudius" label="Servius Claudius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="168.40527" y="-362.24966" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Parthenius" label="Parthenius">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-194.60095" y="115.457405" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Panaetius" label="Panaetius">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="16.55432" y="157.34212" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Chaldaeans" label="Chaldaeans">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-136.64273" y="255.31505" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Lex Julia" label="Lex Julia">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-125.53425" y="-392.8675" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Xenophon" label="Xenophon">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="131.84181" y="96.02619" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Junius" label="Junius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="235.36987" y="-321.64615" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Cretan Stranger" label="Cretan Stranger">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="123.19162" y="97.42254" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Novius" label="Novius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="153.72606" y="-218.39192" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aristippus" label="Aristippus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-24.205568" y="236.47026" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pamphile" label="Pamphile">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="212.05333" y="170.38223" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Theopompus" label="Theopompus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="125.3944" y="-50.972157" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Alexander Aetolus" label="Alexander Aetolus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-282.6926" y="-312.03113" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Hellanicus" label="Hellanicus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="224.96733" y="174.67589" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Volcacius Sedigitus" label="Volcacius Sedigitus">
+        <attvalues></attvalues>
+        <viz:size value="1.0448431"></viz:size>
+        <viz:position x="-206.51613" y="-108.36187" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Atilius" label="Atilius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-231.61537" y="-133.8285" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Turpilius" label="Turpilius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-235.87445" y="-125.20682" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Trabea" label="Trabea">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-244.84999" y="-123.59901" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Luscius" label="Luscius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-242.51732" y="-133.28438" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Laelius Felix" label="Laelius Felix">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-207.51944" y="21.463762" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Asconius Pedianus" label="Asconius Pedianus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="467.84763" y="444.2878" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Fenestella" label="Fenestella">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="472.1033" y="448.6352" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Erasistratus" label="Erasistratus">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="94.962364" y="69.89152" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Cincius" label="Cincius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="182.98958" y="-14.949661" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aelius Gallus" label="Aelius Gallus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="420.17438" y="88.42176" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Quispiam Latinae litterator" label="Quispiam Latinae litterator">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-117.26948" y="75.16891" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Cloatius Verus" label="Cloatius Verus">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-26.054192" y="168.84937" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Hypsicrates" label="Hypsicrates">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-23.395264" y="184.23018" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Asinius Gallus" label="Asinius Gallus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-25.453945" y="91.63649" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Largius Licinius" label="Largius Licinius">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-17.32987" y="90.387535" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Greek boor" label="Greek boor">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-33.560543" y="151.61719" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Philemon" label="Philemon">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="12.725818" y="-423.4224" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Lex Atinia" label="Lex Atinia">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="351.0073" y="224.5256" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pindar" label="Pindar">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-154.44022" y="243.69327" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Alcaeus" label="Alcaeus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="146.82028" y="45.915268" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Philistion the Locrian" label="Philistion the Locrian">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="142.5867" y="61.068993" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Dioxippus" label="Dioxippus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="138.37637" y="51.766308" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Publilius" label="Publilius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="67.46128" y="-56.144836" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Carneades" label="Carneades">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="129.78473" y="-378.2098" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Lenaeus" label="Lenaeus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="90.673744" y="-399.1776" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Arrian" label="Arrian">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-40.378414" y="256.8156" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="sophist" label="sophist">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="117.748276" y="-412.91177" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Chronicles" label="Chronicles">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="240.22874" y="340.0539" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Cassius" label="Cassius">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="10.750912" y="182.02438" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Porcius Licinius" label="Porcius Licinius">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-150.75697" y="-88.089745" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aeschines" label="Aeschines">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-25.403887" y="427.98746" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Ennianista" label="Ennianista">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="125.57086" y="401.8723" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Lampadio" label="Lampadio">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-127.94445" y="-41.527355" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Aelius Melissus" label="Aelius Melissus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="334.4808" y="-74.27314" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Domitius Insanus" label="Domitius Insanus">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="-41.13828" y="57.56994" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Velius Longus" label="Velius Longus">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-125.007" y="-93.69627" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Furius Antias" label="Furius Antias">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-65.40346" y="86.13259" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Juventius" label="Juventius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="195.45688" y="369.42194" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Stoic" label="Stoic">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-28.230494" y="250.01315" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Peripatetic" label="Peripatetic">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="64.2789" y="97.192024" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Poet" label="Poet">
+        <attvalues></attvalues>
+        <viz:size value="1.0134529"></viz:size>
+        <viz:position x="-136.65" y="-17.129395" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Anacreon" label="Anacreon">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="430.50406" y="-6.9175" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Graeci" label="Graeci">
+        <attvalues></attvalues>
+        <viz:size value="1.0269058"></viz:size>
+        <viz:position x="-317.59192" y="58.65528" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Memmius" label="Memmius">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-344.82974" y="63.102833" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Valerius Aeditumus" label="Valerius Aeditumus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-142.87256" y="-96.93438" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Quintus Catulus" label="Quintus Catulus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-166.98444" y="-84.71182" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Julius Celsinus" label="Julius Celsinus">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-124.713066" y="-35.174797" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Postumius Festus" label="Postumius Festus">
+        <attvalues></attvalues>
+        <viz:size value="1.0089686"></viz:size>
+        <viz:position x="-157.90065" y="32.763603" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sextus Caecilius" label="Sextus Caecilius">
+        <attvalues></attvalues>
+        <viz:size value="1.0179372"></viz:size>
+        <viz:position x="-120.82037" y="110.12309" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Alexander the Great" label="Alexander the Great">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="277.1461" y="311.28543" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sappho" label="Sappho">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="427.5924" y="-79.43144" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Bacchylides" label="Bacchylides">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-97.25198" y="-398.831" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Plutach" label="Plutach">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="19.690945" y="222.63087" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Publius Lavinius" label="Publius Lavinius">
+        <attvalues></attvalues>
+        <viz:size value="1.0044843"></viz:size>
+        <viz:position x="-72.292534" y="-63.60449" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Gellius" target="Plutarch" weight="13.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Epictetus" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Herodes Atticus" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Cicero" weight="70.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Theophrastus" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Lucilius" weight="20.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Favorinus" weight="34.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Pericles">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Antonius Iulianus" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Demosthenes" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Hortensius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Metellus Numidicus" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Titus Castricius" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Gaius Gracchus" weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Claudius Quadrigarius" weight="35.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Valerius Antias" weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Plautus" weight="25.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Laberius" weight="27.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Sotion">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Taurus" weight="15.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Plato" weight="14.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Caesar" weight="9.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Thucydides">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Herodotus" weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Homer" weight="24.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aristotle" weight="19.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Labeo Antistius" weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Capito Ateius" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Sulla">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Cato" weight="61.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Hyginus" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Eupolis">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Sallust" weight="20.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Hesiod" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Epicharmius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Valerius Probus" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aristophanes" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Varro" weight="71.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Socrates" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Lucius Aelius" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Pythagoras">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Vergil" weight="44.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Lucretius" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Julius Paulus" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Ennius" weight="33.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Naevius" weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Pacuvius" weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aurelius Opilius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Fidus Optatus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Gavius Bassus" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Annaeus Cornutus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Epicurus" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Accius" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Annales">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Sempronius Asellio" weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Caesellius Vindex" weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Sulpicius Apollinaris" weight="12.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Cebes Socraticus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Phaedo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Menippus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Diogenes" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Publius Scipio" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Nigidius Figulus" weight="27.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Menander" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Posidippus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Apollodorus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Alexis" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Caecilius Statius" weight="11.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Laevius" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aristarchus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Crates">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Fronto" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aesop">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Julius Modestus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Philochorus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Xenophanes">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Ephorus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Hermippus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Philippides">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Hippocrates" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Sabinus medicus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Livius Andronicus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Hadrian" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Pliny the Elder" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Masurius Sabinus" weight="15.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Timon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Grammatici" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Quintus Scaevola" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Servius Sulpicius" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Caelius Sabinus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Trebatius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Neratius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Verrius Flaccus" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Ateius Capito" weight="10.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Terence" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Tiro" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Callimachus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aristoxenus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Empedocles">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Democritus" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Musonius Rufus" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Chares">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Fabius Pictor" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Protagoras">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Bias">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Apion" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Sinnius Capito">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Amicus" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="C. Oppius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Annianus" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Atta" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aelius Tubero" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Euripides" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Cornelius Nepos" weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Decree" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Catullus" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Chrysippus" weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Philosophus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Tuditanus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Alfenus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Matius" weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Twelve Tables" weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Lucius Piso" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Gaius Trebatius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Peregrinus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Gnaeus Gellius" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Heracleides of Pontus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Philip of Macedon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aristeas of Proconnesus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Isigonus of Nicaea">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Ctesias">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Onesicritus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Philostephanus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Hegesias">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Antisthenes Socraticus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Speusippus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Zeno">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Critolaus" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Suetonius" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Theocritus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Calvus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Cinna" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Sisenna" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Coelius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Augustus" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Afranius" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Archytas the Pythagorean">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="On the Public Priests">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Theodectes">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Salus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Pomponius" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Asinius Pollio" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Timaeus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Pyrrho">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aulus Albinus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Diodorus Cronus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Terentius Scaurus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aristo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Seneca">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Valgius Rufus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Riddle">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Valerius Maximus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Sophocles" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Augurs">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Messala" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Elys">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Erucius Clarus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aeschylus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Adulescens" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Licinius Imbrex">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Servius Claudius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Parthenius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Panaetius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Chaldaeans">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Lex Julia">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Xenophon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Junius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Cretan Stranger">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Novius" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Pamphile" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Theopompus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Alexander Aetolus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Volcacius Sedigitus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Laelius Felix" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Asconius Pedianus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Erasistratus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Cincius" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aelius Gallus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Cloatius Verus" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Asinius Gallus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Largius Licinius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Greek boor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Philemon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Lex Atinia">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Pindar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Publilius" weight="14.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Carneades">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Lenaeus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Arrian">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="sophist">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Chronicles">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Cassius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Porcius Licinius" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aeschines">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Ennianista">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Aelius Melissus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Domitius Insanus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Furius Antias" weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Juventius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Stoic" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Peripatetic">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Poet">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Anacreon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Graeci">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Valerius Aeditumus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Quintus Catulus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Julius Celsinus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Postumius Festus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Sextus Caecilius" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Alexander the Great">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Sappho">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Bacchylides">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gellius" target="Publius Lavinius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Plutarch" target="Plato">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Plutarch" target="Aristotle">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Plutarch" target="Epicurus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Plutarch" target="Arcesilaus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Plutarch" target="Hippocrates">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Plutarch" target="Erasistratus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Plutarch" target="Alcaeus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Plutarch" target="Philistion the Locrian">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Plutarch" target="Dioxippus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Herodes Atticus" target="Epictetus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Herodes Atticus" target="Musonius Rufus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cicero" target="Demosthenes">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cicero" target="Plato">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cicero" target="Homer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cicero" target="Chrysippus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cicero" target="Panaetius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cicero" target="Aristippus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Epictetus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Cicero" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Theophrastus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Claudius Quadrigarius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Plautus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Plato" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Caesar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Homer" weight="11.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Aristotle">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Labeo Antistius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Cato" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Hyginus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Sallust">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Hesiod">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Valerius Probus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Aristophanes">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Vergil" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Lucretius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Ennius" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Gavius Bassus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Gallus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Horace">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Nigidius Figulus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Quintus Scaevola">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Mucius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Bias">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Aelius Tubero">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Twelve Tables">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Archytas the Pythagorean">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Pyrrho">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Chaldaeans">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Erasistratus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Pindar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Domitius Insanus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Favorinus" target="Sextus Caecilius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Antonius Iulianus" target="Cicero">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Antonius Iulianus" target="Lucilius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Antonius Iulianus" target="Claudius Quadrigarius" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Antonius Iulianus" target="Vergil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Antonius Iulianus" target="Ennius" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Antonius Iulianus" target="Matius" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Antonius Iulianus" target="Porcius Licinius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Antonius Iulianus" target="Lampadio">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Antonius Iulianus" target="Valerius Aeditumus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Antonius Iulianus" target="Quintus Catulus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Titus Castricius" target="Cicero">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Titus Castricius" target="Demosthenes">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Titus Castricius" target="Metellus Numidicus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Titus Castricius" target="Gaius Gracchus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Titus Castricius" target="Sallust">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sotion" target="Demosthenes">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Taurus" target="Plutarch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Taurus" target="Theophrastus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Taurus" target="Demosthenes">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Taurus" target="Plato" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Taurus" target="Herodotus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Taurus" target="Homer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Taurus" target="Aristotle" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Taurus" target="Hierocles Stoicus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Plato" target="Euripides">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Plato" target="Xenophon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Aristotle" target="Solon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Labeo Antistius" target="Twelve Tables">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cato" target="Aulus Albinus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Hyginus" target="Vergil" weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Hyginus" target="Theodectes">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Valerius Probus" target="Valerius Antias">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Valerius Probus" target="Plautus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Valerius Probus" target="Caesar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Valerius Probus" target="Homer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Valerius Probus" target="Sallust" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Valerius Probus" target="Vergil" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Valerius Probus" target="Ennius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Valerius Probus" target="Aelius Tubero">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Varro" target="Plautus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Varro" target="Homer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Varro" target="Aristotle" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Varro" target="Sallust">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Varro" target="Lucius Aelius" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Varro" target="Ennius" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Varro" target="Naevius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Varro" target="Accius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Varro" target="Valerius Soranus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Varro" target="Aristides Samius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Varro" target="Euripides">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Varro" target="Riddle">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Socrates" target="Homer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Lucius Aelius" target="Ennius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vergil" target="Homer" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vergil" target="Ennius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vergil" target="Parthenius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Julius Paulus" target="Sallust">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Julius Paulus" target="Vergil" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Julius Paulus" target="Laevius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Julius Paulus" target="Twelve Tables">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ennius" target="Euripides">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ennius" target="Twelve Tables">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pacuvius" target="Accius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fidus Optatus" target="Vergil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Annaeus Cornutus" target="Vergil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Accius" target="Pacuvius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Caesellius Vindex" target="Cicero">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Caesellius Vindex" target="Vergil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Caesellius Vindex" target="Ennius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Caesellius Vindex" target="Livius Andronicus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Caesellius Vindex" target="Furius Antias">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Cicero" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Lucilius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Gaius Gracchus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Claudius Quadrigarius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Plautus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Laberius" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Homer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Sulla">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Sallust" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Aristophanes">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Vergil" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Lucretius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Caesellius Vindex">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Terence" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Afranius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sulpicius Apollinaris" target="Erucius Clarus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Greek students" target="Homer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Roman students" target="Varro">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Roman students" target="Lucius Aelius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Nigidius Figulus" target="Laberius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Apollodorus" target="Menander">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Caecilius Statius" target="Menander">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fronto" target="Claudius Quadrigarius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fronto" target="Caesar" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fronto" target="Cato">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fronto" target="Varro" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fronto" target="Vergil" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fronto" target="Ennius" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fronto" target="Pacuvius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fronto" target="Sulpicius Apollinaris">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fronto" target="Nigidius Figulus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fronto" target="Cinna">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fronto" target="Postumius Festus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Livius Andronicus" target="Homer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pliny the Elder" target="Masurius Sabinus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pliny the Elder" target="Democritus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Masurius Sabinus" target="Tiberius Caesar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grammatici" target="Lucilius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grammatici" target="Varro">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grammatici" target="Ennius" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grammatici" target="Caecilius Statius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grammatici" target="Velius Longus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Servius Sulpicius" target="Aelius Catus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Caelius Sabinus" target="Labeo Antistius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Verrius Flaccus" target="Cato">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ateius Capito" target="Labeo Antistius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ateius Capito" target="Varro">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ateius Capito" target="Aelius Tubero" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tiro" target="Cicero">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tiro" target="Lucilius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tiro" target="Caesar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tiro" target="Cato">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Aristoxenus" target="Pythagoras">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Musonius Rufus" target="Homer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Apion" target="Caesar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Gellius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Plutarch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Lucilius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Claudius Quadrigarius" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Valerius Antias">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Homer" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Cato">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Varro">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Lucius Aelius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Pythagoras">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Gavius Bassus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Nigidius Figulus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Aristarchus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Crates">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Hippocrates">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Sinnius Capito">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Amicus" target="Coelius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Annianus" target="Plutarch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Annianus" target="Lucilius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Annianus" target="Valerius Probus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Annianus" target="Vergil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Annianus" target="Terence">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Euripides" target="Sophocles">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Euripides" target="Aeschylus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cornelius Nepos" target="Cicero">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cornelius Nepos" target="Homer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cornelius Nepos" target="Decree" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Chrysippus" target="Plato">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Chrysippus" target="Pythagoreans">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Philosophus" target="Chrysippus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Lucius Piso" target="Romulus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Peregrinus" target="Sophocles">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Critolaus" target="Demosthenes">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Terentius Scaurus" target="Caesellius Vindex">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Seneca" target="Cicero">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Seneca" target="Vergil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Seneca" target="Ennius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Valgius Rufus" target="Cicero">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Adulescens" target="Cicero">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Adulescens" target="Cato">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Adulescens" target="Varro">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Xenophon" target="Plato">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cretan Stranger" target="Plato">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamphile" target="Thucydides">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamphile" target="Herodotus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamphile" target="Hellanicus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Theopompus" target="Euripides">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Volcacius Sedigitus" target="Plautus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Volcacius Sedigitus" target="Ennius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Volcacius Sedigitus" target="Naevius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Volcacius Sedigitus" target="Caecilius Statius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Volcacius Sedigitus" target="Terence">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Volcacius Sedigitus" target="Licinius Imbrex">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Volcacius Sedigitus" target="Atilius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Volcacius Sedigitus" target="Turpilius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Volcacius Sedigitus" target="Trabea">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Volcacius Sedigitus" target="Luscius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Laelius Felix" target="Labeo Antistius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Asconius Pedianus" target="Fenestella">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quispiam Latinae litterator" target="Vergil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cloatius Verus" target="Homer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cloatius Verus" target="Hypsicrates">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Asinius Gallus" target="Cicero">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Largius Licinius" target="Cicero">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Greek boor" target="Homer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Arrian" target="Epictetus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cassius" target="Homer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cassius" target="Hesiod">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cassius" target="Solon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Lampadio" target="Ennius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Aelius Melissus" target="Pomponius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Domitius Insanus" target="Cato">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Domitius Insanus" target="Verrius Flaccus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Stoic" target="Epictetus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Stoic" target="Aristippus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Peripatetic" target="Aristotle">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Poet" target="Plautus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Poet" target="Caesar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Poet" target="Ennius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Graeci" target="Hortensius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Graeci" target="Laevius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Graeci" target="Catullus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Graeci" target="Calvus">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Graeci" target="Cinna">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Graeci" target="Memmius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Julius Celsinus" target="Ennius">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Postumius Festus" target="Sulpicius Apollinaris">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sextus Caecilius" target="Favorinus" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sextus Caecilius" target="Vergil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sextus Caecilius" target="Twelve Tables">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Plutach" target="Hesiod">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Publius Lavinius" target="Varro">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
